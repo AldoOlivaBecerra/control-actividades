@@ -8,4 +8,7 @@ Preparar la estructura inicial de un proyecto utilizando Python, Git y GitHub.
 - Git
 - GitHub
 ## Autor
-Nombre completo
+Aldo Emiliano Oliva Becerra
+
+## Estado del proyecto
+Proyecto en etapa inicial.
